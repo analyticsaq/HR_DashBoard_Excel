@@ -1,5 +1,5 @@
 # 📊 HR Dashboard Data Analysis using Excel
-![LOGO](https://github.com/analyticsaq/HR_DashBoard_Excel/blob/main/Logo.png)
+![LOGO](https://github.com/analyticsaq/HR_DashBoard_Excel/blob/main/Logo.jpg)
 
 ## 📌 Overview
 
@@ -136,10 +136,9 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 -Copy and Past all SIX Pivot Chart
 -Added Slicers for making it more interactive and dynamic.
 
-	![Dashboard](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
 
 ```
-
+![Dashboard](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/Dashboard.png)
 ---
 
 ## 📌 Findings & Conclusions
