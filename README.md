@@ -138,7 +138,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 
 
 ```
-![Dashboard](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/Dashboard.png)
+![Dashboard](https://github.com/analyticsaq/HR_DashBoard_Excel/blob/main/Dashboard.png)
 ---
 
 ## 📌 Findings & Conclusions
